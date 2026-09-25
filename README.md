@@ -1,5 +1,8 @@
 # Python DSA Practice
 
+[![CI](https://github.com/KumailAbbas05/Python-DSA-Practice/actions/workflows/ci.yml/badge.svg)](https://github.com/KumailAbbas05/Python-DSA-Practice/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![DSA](https://img.shields.io/badge/Focus-Data%20Structures-green)
 
