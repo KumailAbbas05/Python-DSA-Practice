@@ -1,16 +1,19 @@
 # Python DSA Practice
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![DSA](https://img.shields.io/badge/Focus-Data%20Structures-green)
+
 A beginner-friendly collection of Python Data Structures and Algorithms exercises.
 
 ## Topics Covered
 
-- Array traversal
-- Array insertion
-- Array deletion
+- Array/list traversal
+- Insertion
+- Deletion
 - Linear search
 - String traversal
 - Character counting
-- Combined array operations
+- Combined list operations
 - Singly linked lists
 
 ## Repository Structure
@@ -30,6 +33,35 @@ Python-DSA-Practice/
 │   └── character_count.py
 └── README.md
 ```
+
+## Key Exercise
+
+The linked-list example stores three student records:
+
+```text
+Ali → Sara → Ahmed → None
+```
+
+Each node contains a name, roll number, department and reference to the next node.
+
+## What I Practiced
+
+- Python lists
+- Loops
+- User input
+- Conditions
+- Classes and objects
+- References between linked-list nodes
+- Basic algorithmic thinking
+
+## Planned Additions
+
+- Stacks
+- Queues
+- Binary search
+- Sorting algorithms
+- Doubly linked lists
+- Trees
 
 ## Author
 
